@@ -286,3 +286,5 @@ The dual accountant system introduces configuration complexity:
 - Guardians must properly configure both accountants
 - Message routing logic must correctly identify transfer types
 - Monitoring and alerting must cover both systems
+
+<!-- Auto-update: 2025-10-19T10:38:28.274934 -->
